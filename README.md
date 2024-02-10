@@ -7,7 +7,7 @@ Watches each block for a balance update, and if one is detected, burns all that 
 1. **Clone this GitHub repository:**
 
     ```bash
-    git clone <repo_link>
+    git clone https://github.com/mahatotarit/eth-burner.git
     ```
 
 2. **Create a Telegram Bot:**
