@@ -1,6 +1,5 @@
 import "log-timestamp";
 import { providers, Wallet } from "ethers";
-import keep_alive from "./keep_alive";
 
 // If you're using an Infura RPC URL, please uncomment the following two lines:
 import { EventEmitter } from 'events';
@@ -8,6 +7,7 @@ EventEmitter.defaultMaxListeners = 1000;
 
 import args from "./args";
 import burn from "./burn";
+import keep_alive from "./keep_alive";
 
 // pulls args from cmd line
 const RPC_URL = args.rpcUrl;
