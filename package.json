@@ -17,6 +17,7 @@
     "axios": "^1.6.7",
     "command-line-args": "^5.2.0",
     "dotenv": "^16.4.1",
+    "http": "^0.0.1-security",
     "ethers": "^5.5.2",
     "log-timestamp": "^0.3.0"
   }
