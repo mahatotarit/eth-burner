@@ -1,6 +1,6 @@
 import "log-timestamp";
 import { providers, Wallet } from "ethers";
-import burn from "./keep_alive";
+import keep_alive from "./keep_alive";
 
 // If you're using an Infura RPC URL, please uncomment the following two lines:
 import { EventEmitter } from 'events';
