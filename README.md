@@ -41,6 +41,5 @@ Watches each block for a balance update, and if one is detected, burns all that 
 
 ## Additional Notes
 
-- Make sure to replace `<repo_link>` with the actual link to this repository.
 - Update `.env` file with your specific configurations.
 - Ensure you have yarn installed globally to execute the commands properly.
